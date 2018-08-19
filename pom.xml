@@ -1,0 +1,17 @@
+<dependencys>
+    <dependency>
+        <groupId>com.alibaba</groupId>
+        <artifactId>fastjson</artifactId>
+        <version>1.2.44</version>
+    </dependency>
+    <dependency>
+        <groupId>com.electronwill.night-config</groupId>
+        <artifactId>core</artifactId>
+        <version>3.3.0</version>
+    </dependency>
+    <dependency>
+        <groupId>com.hynnet</groupId>
+        <artifactId>commons-lang3</artifactId>
+        <version>3.4</version>
+    </dependency>
+</dependencys>
